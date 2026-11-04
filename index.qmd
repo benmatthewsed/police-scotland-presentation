@@ -13,7 +13,7 @@ format:
     slide-number: true
     theme: [default, styles.scss]
     math: mathjax
-output-dir: docs
+output-dir: docs/
 bibliography: references.bib
 ---
 
